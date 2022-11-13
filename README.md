@@ -7,6 +7,7 @@ required libraries and packages :
 -face_recognition
 -cv2
 -pandas
+-download haar cascade frontal face
 
 hint :
  to make it run just change folders name by your folder 
