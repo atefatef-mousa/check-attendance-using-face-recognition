@@ -8,5 +8,7 @@ required libraries and packages :
 -cv2
 -pandas
 
+hint :
+ to make it run just change folders name by your folder 
 
  
